@@ -47,7 +47,7 @@ public class Persona {
         System.out.println("\n");
     }     
     
-     public void Prueba_Github()
+    public void Prueba_Github()
     {
         System.out.println("Prueba de Github");
     }        
