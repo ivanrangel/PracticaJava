@@ -45,5 +45,10 @@ public class Persona {
         System.out.println("Cedula: "+Cedula);                            
         System.out.println("Sueldo: "+Sueldo);
         System.out.println("\n");
+    }     
+    
+     public void Prueba_Github()
+    {
+        System.out.println("Prueba de Github");
     }        
 }
