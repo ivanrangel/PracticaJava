@@ -50,5 +50,6 @@ public class Persona {
     public void Prueba_Github()
     {
         System.out.println("Prueba de Github");
+        System.out.println("Prueba de Github 2");
     }        
 }
