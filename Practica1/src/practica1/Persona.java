@@ -51,5 +51,6 @@ public class Persona {
     {
         System.out.println("Prueba de Github");
         System.out.println("Prueba de Github 2");
+        System.out.println("JUAN CARLOS");
     }        
 }
